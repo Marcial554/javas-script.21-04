@@ -1,0 +1,1 @@
+window.alert('Mi primera clase en certus aplicano javascripot')
